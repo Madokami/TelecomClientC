@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\TelecomClientC\TelecomClientC\bin\Debug\TelecomClientC.exe
+c:\users\user\documents\visual studio 2015\Projects\TelecomClientC\TelecomClientC\bin\Debug\TelecomClientC.pdb
+c:\users\user\documents\visual studio 2015\Projects\TelecomClientC\TelecomClientC\obj\Debug\TelecomClientC.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TelecomClientC\TelecomClientC\obj\Debug\TelecomClientC.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\TelecomClientC\TelecomClientC\obj\Debug\TelecomClientC.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\TelecomClientC\TelecomClientC\obj\Debug\TelecomClientC.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\TelecomClientC\TelecomClientC\obj\Debug\TelecomClientC.exe
+c:\users\user\documents\visual studio 2015\Projects\TelecomClientC\TelecomClientC\obj\Debug\TelecomClientC.pdb
